@@ -1,6 +1,6 @@
 # Installation Steps
 ```
-   go get stash.bms.bz/merchandise/go-logger
+   go get github.com/idya-org/go-logger
 ```
 
 ### Usage Example
