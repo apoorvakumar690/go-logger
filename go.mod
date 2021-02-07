@@ -1,4 +1,4 @@
-module stash.bms.bz/merchandise/go-logger
+module go-logger
 
 go 1.14
 
