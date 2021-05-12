@@ -1,6 +1,6 @@
 # Installation Steps
 ```
-   go get github.com/idya-org/go-logger
+   go get github.com/apoorvakumar690/go-logger
 ```
 
 ### Usage Example
