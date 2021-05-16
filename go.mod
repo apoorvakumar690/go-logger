@@ -1,4 +1,4 @@
-module github.com/idya-org/go-logger
+module github.com/apoorvakumar690/go-logger
 
 go 1.14
 
